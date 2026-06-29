@@ -8,8 +8,6 @@ class Select2Functions {
 	/**
 	 * Outputs the required <script> and <link> tags
 	 *
-	 * Uses a nonce for CSP compatibility.
-	 *
 	 * @return void
 	 */
 	public static function htmlHead() : void 
