@@ -29,7 +29,7 @@ Flatpress Plugin page <https://wiki.flatpress.org/res:plugins:select2>
 
 It was developed 
 
-* on **FlatPress 1.5** - bit coud run on an older version (send me a notice iof so)
+* on **FlatPress 1.5** - but it could run on an older version (send me a notice if so)
 * with **PHP 8.5** (and should run on supported 8.x versions of PHP)
 * Select2 needs **jQuery** to run
 
@@ -62,6 +62,7 @@ git clone https://github.com/axelhahn/fp-plugin-select2.git select2
 ## ✅ Enable plugin
 
 In the FlatPress admin, go to the Plugins page, then enable the plugin.
+
 ## 🧾 Changelog
 
 * 2026-06-29 - 1.0.0 - Initial release
